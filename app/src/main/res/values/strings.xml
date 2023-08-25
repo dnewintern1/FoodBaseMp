@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FoodBaseMp</string>
+    <string name="api_key">9a0f9e8fbbf14d3e88cb58741133b2ab</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert </item>
+        <item>appetizer </item>
+        <item>salad </item>
+        <item>bread</item>
+        <item>breakfast </item>
+        <item>soup </item>
+        <item>beverage </item>
+        <item>sauce </item>
+        <item>marinade </item>
+        <item>fingerfood </item>
+        <item>snack </item>
+        <item>drink </item>
+
+    </string-array>
+</resources>

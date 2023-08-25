@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401263438019",
+    "project_id": "foodbasemp",
+    "storage_bucket": "foodbasemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401263438019:android:aec6d5efab846548c0da76",
+        "android_client_info": {
+          "package_name": "com.base.foodbasemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401263438019-u952keriah5jbthfu5m07sbs2ppvog66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEN_Bj1UxNscfldDvZcf6f0koB3Z5sgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401263438019-u952keriah5jbthfu5m07sbs2ppvog66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
